@@ -17,7 +17,7 @@ Welcome to WeChat `hehuanwuqi814` for discussion
 
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://pic.imgdb.cn/item/6400b6c5f144a010072c4261.png)
 
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fheyq46228168)
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fheyq46228168)
 
 ---
 
