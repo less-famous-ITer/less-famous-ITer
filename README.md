@@ -5,13 +5,14 @@
 
 I am a junior student at Nanjing University of Posts and Telecommunications
 
-My technology stack is mainly the front end.
+My technology stack is mainly the front end
 
 Welcome to WeChat for discussion
 
 ---
 
-🌐 Languages : English, Chinese
+### 🌐 Languages : 
+English, Chinese
 
 ---
 
