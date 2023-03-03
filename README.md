@@ -1,4 +1,4 @@
-  # Hi, I'm Heyq! :boy:
+  # Hi, I'm Heyq! /'hɜ:/ :boy:
   
   ### :sparkles: About Me :
 
