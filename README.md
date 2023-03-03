@@ -7,7 +7,9 @@ I am a junior student at Nanjing University of Posts and Telecommunications
 
 My technology stack is mainly the front end.
 
-Welcome to WeChat `hehuanwuqi814` for discussion
+Welcome to WeChat for discussion
+
+---
 
 🌐 Languages : English, Chinese
 
