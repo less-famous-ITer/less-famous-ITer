@@ -20,8 +20,8 @@ English, Chinese
 
 #### `mock-fetch-ts`
 
-##### introduction: overrides the native fetch to simulate the background interface
-##### address: ![mock-fetch-ts](https://github.com/less-famous-ITer/mock-fetch-ts/)
+###### introduction: overrides the native fetch to simulate the background interface
+###### address: [mock-fetch-ts](https://github.com/less-famous-ITer/mock-fetch-ts/)
 
 ---
 
