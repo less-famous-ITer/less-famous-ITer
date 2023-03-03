@@ -1,3 +1,7 @@
+ <div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+ </div>
+ 
  
  # :boy: Hi, I'm Heyq! (/'hɜ:/) 
   
@@ -10,10 +14,6 @@ My technology stack is mainly the front end, and welcome to WeChat for discussio
 
 ---
 
-### 🌐 Languages : 
-English, Chinese
-
----
 
 ### :file_folder: Projects
 
