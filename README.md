@@ -22,6 +22,11 @@ My technology stack is mainly the front end, and welcome to WeChat for discussio
 ##### intro: overrides the native fetch to simulate the background interface
 ##### address: [mock-fetch-ts](https://github.com/less-famous-ITer/mock-fetch-ts/)
 
+#### 2. `format-SVG`
+
+##### intro: Code format the image in svg format
+##### address: [format-SVG](https://github.com/less-famous-ITer/format-SVG)
+
 ---
 
 ### :envelope: Contact me :
