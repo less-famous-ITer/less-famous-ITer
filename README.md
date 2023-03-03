@@ -13,16 +13,11 @@ Welcome to WeChat `hehuanwuqi814` for discussion
 
 ---
 
-### :envelope: Contact me
+### :envelope: Contact me :
 
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://pic.imgdb.cn/item/6400b6c5f144a010072c4261.png)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/heyq46228168)
 
-
-
-<div>
-  <a href="https://twitter.com/heyq46228168"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?logo=Twitter&style=social/></a>
-</div>
-  
 ---
 
 ### :briefcase: My stack and tools :
