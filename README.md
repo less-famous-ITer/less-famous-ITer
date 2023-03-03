@@ -1,6 +1,6 @@
   # Hi, I'm Heyq! :boy:
   
-  ### :eyes: About Me :
+  ### :sparkles: About Me :
 
 
 I am a junior student at Nanjing University of Posts and Telecommunications
@@ -11,7 +11,7 @@ My technology stack is mainly the front end. Welcome to WeChat `hehuanwuqi814` f
 
 ---
 
-### My stack and tools :
+### :briefcase: My stack and tools :
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
