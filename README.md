@@ -6,9 +6,7 @@
 
 I am a junior student at Nanjing University of Posts and Telecommunications
 
-My technology stack is mainly the front end
-
-Welcome to WeChat for discussion
+My technology stack is mainly the front end, and welcome to WeChat for discussion
 
 ---
 
